@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Happy new year!!!</title>
+  <style>
+  h1,h2,p{
+    text-align:center;
+    color:orange;
+  }
+  body{
+    background-color:brown;
+  }
+  </style>
+</head>
+<body>
+  <h1>Новый год!</h1>
+  <p>Новый год-самый лучший праздник!Новый год празднуют все страны мира.Новый год-новые счастя</p>
+  <h2>2024 год</h2>
+  <p>Для меня 2024 год было хорошим годом.В этом году я пришел в новую школу,нашел новых друзей,познокомился с новыми людми.В этом году я открыл себе много новых возможностей.</p>
+  <h2>Новый годный вайб</h2>
+  <p>Новый год это время когда все будут в хорошим настроений и ждут новый год.В 00:00 весь мир празднует новый год.Стреляют салют,едят мандарины и манты,пют колу.</p>
+  <h2>new year core:</h2>
+  <img src="https://images.app.goo.gl/mhry3KGvuZ1HEds76">
+  <img src="https://images.app.goo.gl/r6LM5nZ68gWMgSaL7">
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.iamcook.ru%2Fold%2Fupl%2Frecipes%2Fcat%2Fu-9220f3f2fc6c3ad9f2c4e3be48389be2.JPG&tbnid=WJhtwphFhwcrGM&vet=1&imgrefurl=https%3A%2F%2Fwww.iamcook.ru%2Ftheme%2Fmanti&docid=vESaoNsPjcxxJM&w=600&h=450&itg=1&hl=ru-RU&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=38af7106a2a477f6">
+  <img src="https://images.app.goo.gl/qZEvLDf5Va16WC3F8">
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F49%2FJonathan_G_Meath_portrays_Santa_Claus.jpg%2F800px-Jonathan_G_Meath_portrays_Santa_Claus.jpg&tbnid=sxAEWoy31h_s4M&vet=1&imgrefurl=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A1%25D0%25B0%25D0%25BD%25D1%2582%25D0%25B0-%25D0%259A%25D0%25BB%25D0%25B0%25D1%2583%25D1%2581&docid=t7n1P8FGx3xFvM&w=800&h=1119&hl=ru-RU&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=8e8ac076aebd429b">
+  <img src="https://images.app.goo.gl/AzdfPuqykGrcR7nP8">
+</body>
+</html>
